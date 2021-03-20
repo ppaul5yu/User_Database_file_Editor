@@ -1,11 +1,14 @@
 # User_Database_file_Editor
 User Database file Editor using Java GUI
 
-![p1](https://user-images.githubusercontent.com/46367703/111859356-ba21df80-8916-11eb-8d3e-2f9a1714eabf.png)
+![sample1](https://user-images.githubusercontent.com/46367703/111860024-31597280-891b-11eb-8ec2-7285095e1059.png)  ![sample2](https://user-images.githubusercontent.com/46367703/111860025-34546300-891b-11eb-9bb7-a36479f3680a.png)
 
-![p2](https://user-images.githubusercontent.com/46367703/111859369-d0c83680-8916-11eb-9c5b-0d04f9029151.png)
+![sample3](https://user-images.githubusercontent.com/46367703/111860028-38808080-891b-11eb-93f0-346a5f055bfd.png)
 
-![p3](https://user-images.githubusercontent.com/46367703/111859370-d32a9080-8916-11eb-8a99-32d60f8bc266.png)
+![sample4](https://user-images.githubusercontent.com/46367703/111860030-3cac9e00-891b-11eb-834d-b68f9a84ea12.png)
 
-![p4](https://user-images.githubusercontent.com/46367703/111859371-d4f45400-8916-11eb-8078-224982d490c4.png)
+![sample6](https://user-images.githubusercontent.com/46367703/111860035-42a27f00-891b-11eb-9f89-c0a7286b93e7.png)
 
+![sample5](https://user-images.githubusercontent.com/46367703/111860040-46ce9c80-891b-11eb-84cd-f154e804ec02.png)
+
+![sample7](https://user-images.githubusercontent.com/46367703/111860042-4930f680-891b-11eb-9bd7-93e719813fae.png)
