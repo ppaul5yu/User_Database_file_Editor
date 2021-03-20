@@ -7,8 +7,6 @@ User Database file Editor using Java GUI
 
 ![sample4](https://user-images.githubusercontent.com/46367703/111860030-3cac9e00-891b-11eb-834d-b68f9a84ea12.png)
 
-![sample6](https://user-images.githubusercontent.com/46367703/111860035-42a27f00-891b-11eb-9f89-c0a7286b93e7.png)
-
-![sample5](https://user-images.githubusercontent.com/46367703/111860040-46ce9c80-891b-11eb-84cd-f154e804ec02.png)
+![sample6](https://user-images.githubusercontent.com/46367703/111860035-42a27f00-891b-11eb-9f89-c0a7286b93e7.png) ![sample5](https://user-images.githubusercontent.com/46367703/111860040-46ce9c80-891b-11eb-84cd-f154e804ec02.png)
 
 ![sample7](https://user-images.githubusercontent.com/46367703/111860042-4930f680-891b-11eb-9bd7-93e719813fae.png)
